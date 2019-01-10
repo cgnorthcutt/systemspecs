@@ -1,19 +1,24 @@
 # systemspecs
 Prints GPU, CPU, RAM, storage, etc. for linux/unix systems.
 
-An example output might look something like this:
+## Example output
 
 
-*OS*: Linux #1 SMP Debian 4.9.130-2 (2018-10-27)
-*Architecture*: 64bit , x86_64
-*Storage*: 394 GB
-*RAM*: 208 GB
-*Num CPU*: 24
-*Num GPU*: 0
+**OS**: Linux Debian 4.9.130-2 (2018-10-27)
 
-*GPU Information*
-***************
- Thu Jan 10 21:25:07 2019       
+**Architecture**: 64bit , x86_64
+
+**Storage**: 219 GB
+
+**RAM**: 24 GB
+
+**Num CPU**: 12
+
+**Num GPU**: 2
+
+**GPU Information:**
+
+Thu Jan 10 21:25:07 2019       
 
 | NVIDIA-SMI 410.72 |           |      |               | Driver Version: 410.72 |        | CUDA Version: 10.0 |             |
 |-------------------|-----------|------|---------------|------------------------|--------|--------------------|-------------|
