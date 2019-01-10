@@ -1,5 +1,7 @@
 # systemspecs
-Prints GPU, CPU, RAM, storage, etc. for linux/unix systems.
+Displays GPU, CPU, memory, and storage information for linux/unix systems.
+
+This is useful when deploying deep learning, machine learning, or other computation on a remote server and you need to quickly assess basic information about the server within a Python interface.
 
 ## Usage
 
