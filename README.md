@@ -1,6 +1,20 @@
 # systemspecs
 Prints GPU, CPU, RAM, storage, etc. for linux/unix systems.
 
+## Usage
+
+### Using terminal:
+```bash
+$ ./system_specs.py
+```
+### Using Python:
+```bash
+$ python system_specs.py
+```
+
+### Using Jupyter Notebook:
+Run this notebook.
+
 ## Example output
 
 
