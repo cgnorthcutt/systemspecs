@@ -13,7 +13,7 @@ $ python system_specs.py
 ```
 
 ### Using Jupyter Notebook:
-Run this notebook.
+Run [this notebook](https://github.com/cgnorthcutt/systemspecs/blob/master/system_specs.ipynb).
 
 ## Example output
 
